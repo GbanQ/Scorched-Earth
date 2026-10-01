@@ -5,7 +5,7 @@
 **Scorched Earth** — хардкорный мод на выживание в постапокалиптическом мире, охваченном радиацией. Игрок начинает в герметичном подземном бункере — единственном безопасном месте в враждебной, заражённой радиацией пустоши.
 
 Управляйте ограниченными ресурсами, улучшайте убежище, создавайте защитное снаряжение и боритесь за выживание в смертельной среде.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wc10f6dQmEQ?si=E3ECgLEh9Ro4cGIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Смотреть трейлер](https://img.youtube.com/vi/wc10f6dQmEQ/maxresdefault.jpg)](https://youtu.be/wc10f6dQmEQ)
 ---
 
 ## Как устроено выживание
